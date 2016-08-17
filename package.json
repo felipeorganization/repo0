@@ -19,7 +19,6 @@
   "dependencies": {
     "bluebird": "^3.4.1",
     "express": "^4.14.0",
-    "lodash": "^4.15.0",
     "rimraf": "^2.5.4",
     "throng": "^4.0.0"
   }
