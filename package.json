@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/felipeorganization/repo0#readme",
   "dependencies": {
+    "express": "^4.14.0",
     "rimraf": "^2.5.4"
   }
 }
