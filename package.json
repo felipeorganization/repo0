@@ -18,7 +18,6 @@
   "homepage": "https://github.com/felipeorganization/repo0#readme",
   "dependencies": {
     "lodash": "^4.15.0",
-    "rimraf": "^2.5.4",
-    "throng": "^4.0.0"
+    "rimraf": "^2.5.4"
   }
 }
